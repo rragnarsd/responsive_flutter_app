@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86965488310",
+    "project_id": "responsiveapp-1e636",
+    "storage_bucket": "responsiveapp-1e636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86965488310:android:424ffafce57b99264d3417",
+        "android_client_info": {
+          "package_name": "rragnars.responsive_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86965488310-d1jgg67n57m7bp1m4lm1qaf10qq33gol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcbPPy-Odkecq2R7gHPTPaZJhc7Ip1WEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86965488310-d1jgg67n57m7bp1m4lm1qaf10qq33gol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
